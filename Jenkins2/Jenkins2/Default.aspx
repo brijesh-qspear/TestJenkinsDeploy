@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    New Project&nbsp;
+    New Test Project&nbsp;
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
         <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
     </div>
