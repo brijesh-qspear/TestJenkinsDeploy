@@ -11,7 +11,7 @@ namespace Jenkins2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Label1.Text = DateTime.Now.ToString("dd-MM-yy hh:mm:ss");
+            Label1.Text = DateTime.Now.ToString("dd-MMM-yy hh:mm:ss");
         }
     }
 }
